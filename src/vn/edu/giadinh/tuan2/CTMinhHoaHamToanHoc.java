@@ -1,4 +1,4 @@
-package vn.edu.giadinh.Tuan02;
+package vn.edu.giadinh.tuan02;
 
 public class CTMinhHoaHamToanHoc {
     public static void main(String[] args) {
