@@ -1,4 +1,4 @@
-package com.huytg2008110083.tuan03.tuan04;
+package com.huytg2008110083.tuan04;
 
 import java.util.Scanner;
 
