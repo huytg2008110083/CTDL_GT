@@ -8,14 +8,14 @@ public class lab3Bai1 {
         System.out.print("Nhập vào số cần kiểm tra: ");
         int n = scanner.nextInt();
         scanner.close();
-        boolean ok = true;
+        boolean cs = true;
         for(int i = 2; i < n-1; i++){
             if(n%i == 0){
-                ok = false;
+                cs = false;
                 break;
             }
         }
-        if(ok)
+        if(cs == true)
             System.out.println(n + " là số nguyên tố");
         
         else
